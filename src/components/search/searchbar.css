@@ -1,0 +1,28 @@
+#menudiv{
+/* margin-top: 20px; */
+margin-top: 0px;
+margin-left: -40px;
+}
+
+#searchinputbar{
+    font-size:20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 100vw;
+}
+
+#searchbarform{
+    display: flex;
+    /* width:1500px; */
+    /* width:500vw; */
+    height:50px;
+   /* background-color:red; */
+}
+
+#buttonsearch{
+    border: none;
+    background-color: white;
+    /* width:500vw; */
+}
+
+

@@ -1,0 +1,41 @@
+#containermenu {
+    width: 1480px;
+    margin-top: 20px;
+    /* height: ; */
+    margin-left: 0px;
+    height: 1000px;
+    /* border: 2px solid green; */
+    display: flex;
+}
+#leftside {
+    /* border: 2px solid black; */
+    width: 280px;
+    height: 150px;
+    margin-left: 50px;
+    /* margin-bottom: 10px; */
+}
+
+#leftsidebar {
+    width: 250px;
+    height: 30px;
+    margin-left: 10px;
+    border: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+#rightside {
+    /* border: 2px solid red; */
+
+    width: 1100px;
+    height: 1200px;
+    /* margin-left: 10px; */
+  
+    font-size: 20px;
+    text-align: left;
+}
+
+#rightside p{
+    margin-left: 20px; 
+  
+}
