@@ -10,7 +10,7 @@ body {
  .container {
     width: 1433px;
     /* width: 94vw; */
-    height: 470px;
+    /* height: 470px; */
     /* height: 65vh; */
     /* margin-left: auto;
     margin-right: auto; */
@@ -18,7 +18,7 @@ body {
 
 #myCarousel {
     width: 100%;
-    height: 250px;
+    /* height: 250px; */
     margin-left: auto;
     margin-top: 20px;
 }
@@ -32,7 +32,9 @@ body {
 } */
 
 #leftcarousell {
-    margin-top: 200px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 /* #menurecommend {
@@ -114,9 +116,11 @@ a {
 }
 
 #leftcarousel {
-    margin-top: 150px;
     width: 80px;
     height: 100px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 .carousel-control.left,

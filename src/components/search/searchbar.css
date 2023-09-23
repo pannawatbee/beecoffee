@@ -9,6 +9,7 @@ margin-left: -40px;
     margin-top: auto;
     margin-bottom: auto;
     width: 100vw;
+    margin-left: unset !important;
 }
 
 #searchbarform{
@@ -16,6 +17,7 @@ margin-left: -40px;
     /* width:1500px; */
     /* width:500vw; */
     height:50px;
+    margin: 30px;
    /* background-color:red; */
 }
 
